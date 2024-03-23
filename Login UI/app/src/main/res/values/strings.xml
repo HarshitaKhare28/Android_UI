@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Register_login_app</string>
+    <string name="app_title">Welcome Back</string>
+    <string name="btntxt_login">LOGIN</string>
+    <string name="txt_forgotpwd">Forgot Password</string>
+    <string name="txt_noaccount">Do not have an account?</string>
+    <string name="txt_signup">Sign Up</string>
+</resources>
